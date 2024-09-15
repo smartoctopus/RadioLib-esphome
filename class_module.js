@@ -1,0 +1,48 @@
+var class_module =
+[
+    [ "RfSwitchMode_t", "struct_module_1_1_rf_switch_mode__t.html", "struct_module_1_1_rf_switch_mode__t" ],
+    [ "SPIConfig_t", "struct_module_1_1_s_p_i_config__t.html", "struct_module_1_1_s_p_i_config__t" ],
+    [ "SPIcheckStatusCb_t", "class_module.html#a1ad7bef7d380d3b6b88dca99bd35d640", null ],
+    [ "SPIparseStatusCb_t", "class_module.html#a9393088249856eab568126aeb2493e4a", null ],
+    [ "BitWidth_t", "class_module.html#af5e5dd089a3117f6499b818b426e2e0d", [
+      [ "BITS_0", "class_module.html#af5e5dd089a3117f6499b818b426e2e0da2ea83939f64337390afbdeb0bfdae3f0", null ],
+      [ "BITS_8", "class_module.html#af5e5dd089a3117f6499b818b426e2e0da52475d5a5e20c3593c9f761d0fb41118", null ],
+      [ "BITS_16", "class_module.html#af5e5dd089a3117f6499b818b426e2e0daf7ba9662a67fe1c7cef1c4761cebbd2e", null ],
+      [ "BITS_32", "class_module.html#af5e5dd089a3117f6499b818b426e2e0da6e2c4fafb92c8d9aff7c77f10ae6206a", null ]
+    ] ],
+    [ "OpMode_t", "class_module.html#a5a67b3a63420d762ecba9448671c99bf", [
+      [ "MODE_END_OF_TABLE", "class_module.html#a5a67b3a63420d762ecba9448671c99bfa81cdd8986054c2ae5657eb5dfd536770", null ],
+      [ "MODE_IDLE", "class_module.html#a5a67b3a63420d762ecba9448671c99bfa505acc66c5e0faa83d2216aca5f3e671", null ],
+      [ "MODE_RX", "class_module.html#a5a67b3a63420d762ecba9448671c99bfa7664838bb0818663f55b3354fec8a18f", null ],
+      [ "MODE_TX", "class_module.html#a5a67b3a63420d762ecba9448671c99bfa269f4bc8ba3eb3d8568feb7b2decf571", null ]
+    ] ],
+    [ "Module", "class_module.html#a817178405f125e068e88bad62aeb6f3b", null ],
+    [ "Module", "class_module.html#a919baf2e46c357ebfcdbc1025b6c551e", null ],
+    [ "findRfSwitchMode", "class_module.html#a5699a937b62ba41387567b4d679b9377", null ],
+    [ "getCs", "class_module.html#aa6cac04c7cb6d5278a318db0966ad1a7", null ],
+    [ "getGpio", "class_module.html#a4ec27f0ba5e0009ea9661a5110526b52", null ],
+    [ "getIrq", "class_module.html#ab61bc5066c356e2d0d79f08a2bd0fbc9", null ],
+    [ "getRst", "class_module.html#ad6cddbf3aebec9717a1a381dd81ad398", null ],
+    [ "init", "class_module.html#ad1956ac81429ec1f61f83dbc081cf18c", null ],
+    [ "operator=", "class_module.html#a4ea888758b4a7784082d513a1e7849a4", null ],
+    [ "setRfSwitchPins", "class_module.html#a7d3adea64acab11c47c804afc74bd4f3", null ],
+    [ "setRfSwitchState", "class_module.html#afbed643f082286012bf44bba22381ae6", null ],
+    [ "setRfSwitchTable", "class_module.html#ac308fa817a5c36c5dc724a0d15cefd4d", null ],
+    [ "SPIcheckStream", "class_module.html#a5efa7ae78cab1d7f43005e965923f769", null ],
+    [ "SPIgetRegValue", "class_module.html#a369e916626c821ecec85f25d5b46d752", null ],
+    [ "SPIreadRegister", "class_module.html#ab250eb929068e0c890e16e8e6d7cd7e6", null ],
+    [ "SPIreadRegisterBurst", "class_module.html#ac993ab8e2ea0f5aa93339d1f6ffb54ee", null ],
+    [ "SPIreadStream", "class_module.html#adacceb57ecfecb09150c135b2b44436f", null ],
+    [ "SPIreadStream", "class_module.html#a085415b49ff72238f118b937ad896cbd", null ],
+    [ "SPIsetRegValue", "class_module.html#ade75c5403a05156b43cc7562563ae2d7", null ],
+    [ "SPItransfer", "class_module.html#aa6df70520aa015dd3a1bccdceae67232", null ],
+    [ "SPItransferStream", "class_module.html#a4174159e476de5cef6ea3f89c883cb5e", null ],
+    [ "SPIwriteRegister", "class_module.html#a60ca6b4cae98f7d935191a569d519913", null ],
+    [ "SPIwriteRegisterBurst", "class_module.html#a2826f0fa116eb0a4dd18ddb9b21e4caf", null ],
+    [ "SPIwriteStream", "class_module.html#af99b0e74e67417a88f500ab7261ddd20", null ],
+    [ "SPIwriteStream", "class_module.html#a7acbe601ebe6398781d0f2de5177305e", null ],
+    [ "term", "class_module.html#a45bd514a1f2859d9a867c8f9b13eb332", null ],
+    [ "waitForMicroseconds", "class_module.html#a7df4c687249c07af2594a5f7ad0a946f", null ],
+    [ "hal", "class_module.html#a4483f0a39a523dd1b37b467d81418f7d", null ],
+    [ "spiConfig", "class_module.html#a3a4fc4101fb3f134152b458c447b8ecb", null ]
+];
